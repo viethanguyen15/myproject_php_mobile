@@ -64,7 +64,7 @@
 	</div><!--/.sidebar-->
 	
 	<?php
-	//master page
+	//master page, change my code123
 		if(isset($_GET['page_layout'])){
 			$page = $_GET['page_layout'];
 			switch ($page) {
